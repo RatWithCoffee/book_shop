@@ -1,0 +1,10 @@
+1;Иван Петров;ivan_petrov;password1;ivan.petrov@email.com;1234567890
+2;Мария Иванова;maria_ivanova;password2;maria.ivanova@email.com;9876543210
+3;Алексей Сидоров;alexei_sidorov;password3;alexei.sidorov@email.com;5555555555
+4;Екатерина Козлова;ekaterina_kozlova;password4;ekaterina.kozlova@email.com;1111111111
+5;Андрей Федоров;andrey_fedorov;password5;andrey.fedorov@email.com;9999999999
+6;Ольга Смирнова;olga_smirnova;password6;olga.smirnova@email.com;7777777777
+7;Сергей Морозов;sergei_morozov;password7;sergei.morozov@email.com;8888888888
+8;Анна Новикова;anna_novikova;password8;anna.novikova@email.com;6666666666
+9;Павел Попов;pavel_popov;password9;pavel.popov@email.com;4444444444
+10;Елена Ильина;elena_ilina;password10;elena.ilina@email.com;2222222222

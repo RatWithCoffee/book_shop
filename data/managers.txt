@@ -1,0 +1,5 @@
+1;Иван Иванов;ivan_ivanov;password1;ivan.ivanov@email.com;1;0;1
+2;Мария Петрова;maria_petrova;password2;maria.petrova@email.com;0;1;0
+3;Алексей Сидоров;alexei_sidorov;password3;alexei.sidorov@email.com;1;1;0
+4;Екатерина Козлова;ekaterina_kozlova;password4;ekaterina.kozlova@email.com;0;0;1
+5;Андрей Федоров;andrey_fedorov;password5;andrey.fedorov@email.com;1;1;1
